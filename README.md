@@ -36,6 +36,8 @@ $ yarn install
 
 ```bash
 # development
+$ create .env file
+$ docker-compose up --build or docker-compose up -d
 $ yarn run start
 
 # watch mode
